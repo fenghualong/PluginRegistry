@@ -57,8 +57,6 @@ public:
 
     int load(const std::string& type,
              const std::string& name);
-    int preload();
-    int preload(const std::string& type);
 };
 
 #endif

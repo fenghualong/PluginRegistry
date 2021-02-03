@@ -32,7 +32,7 @@
 #define PLUGIN_SUFFIX SHARED_LIB_SUFFIX
 #define PLUGIN_INIT_FUNCTION "__ceph_plugin_init"
 #define PLUGIN_VERSION_FUNCTION "__ceph_plugin_version"
-#define PLUGIN_DIR "./lib/"
+#define PLUGIN_DIR "./add/"
 
 using std::map;
 using std::string;
